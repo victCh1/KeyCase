@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>add.png</file>
+        <file>remove.png</file>
+        <file>edit.png</file>
+        <file>passwords_keys.png</file>
+        <file>copy_dark.png</file>
+        <file>copy_light.png</file>
+        <file>hide.png</file>
+        <file>show.png</file>
+        <file>KeyCase_ru.qm</file>
+    </qresource>
+</RCC>
